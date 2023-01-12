@@ -1,0 +1,15 @@
+body{
+    width: 100%;
+    width: 100%;
+    background-color: white;
+}
+
+.container{
+    background-color: blue;
+}
+
+/*@media (min-width: 900px){
+
+    .container{width: 50%;}
+}*/
+
