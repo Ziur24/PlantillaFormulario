@@ -1,15 +1,10 @@
-body{
-    width: 100%;
-    width: 100%;
-    background-color: white;
+
+#contenedorFormulario{
+
+background-color: rgb(233, 230, 230);
+
 }
 
-.container{
-    background-color: blue;
+.logo{
+    width: 3.5rem;
 }
-
-/*@media (min-width: 900px){
-
-    .container{width: 50%;}
-}*/
-
